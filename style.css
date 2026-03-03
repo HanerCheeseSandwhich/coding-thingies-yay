@@ -1,0 +1,81 @@
+body{
+    font-family: 'brushscriptMT', cursive, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    background-blend-mode: color-burn;
+    align-items: center;
+    align-content: center;
+    alignment-baseline: central;
+    text-align: center;
+    cursor: url(Untitled\ design\ \(14\).png) , auto;
+    
+  
+}
+
+
+
+
+div {
+   
+    width: 95%;
+}
+#section1 {
+    height: 1750px;
+    background-color:rgb(200, 233, 255);
+    .center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+}
+#section2 {
+    img{width: 200px;}
+    text-align: center;
+    background-color:rgb(173, 233, 255);
+    height: 1850px;
+}
+#section3 {
+    background-color:rgb(151, 233, 255);
+    height: 1250px;
+    Img {
+        width: 20%;
+        height: 20%;
+    }
+}
+#section4 {
+    text-align: center;
+    height: 550px;
+    background-color: rgb(121, 233, 255);
+    div.scroll-container {
+
+    background-color: rgb(217, 218, 197);
+    overflow:auto;
+    white-space:nowrap;
+    img {
+        width: 20%;
+        height:20%;}
+  padding: 10px;
+}
+}
+#section5 {
+    height: 85px;
+    background-color: rgb(100, 233, 255);
+}
+
+#section6 {
+    padding: 10px;
+    width: 93.5%;
+    background-color: rgb(90, 233, 255);
+    div.scroll-container2 {
+        background-color: rgb(90, 233, 255);
+        overflow: auto;
+        white-space: nowrap;
+        img {
+            width: 20%;
+            height:20%;
+        }
+    }
+}
+
+#endsection {
+    background-image:url("https://www.publicdomainpictures.net/pictures/130000/nahled/rainbow-background-1438899140wt8.jpg");
+}
